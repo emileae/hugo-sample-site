@@ -1,4 +1,4 @@
-baseURL = "https://node-shell-test.firebaseapp.com/"
+baseURL = "https://node-shell-test.firebaseapp.com"
 languageCode = "en"
 title = "Hu | Core"
 theme = "Hucore-theme"
