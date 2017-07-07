@@ -11,7 +11,7 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "Your description here"
+description = "A description for the site..."
 keywords = ["keyword 1", "keyword 2", "keyword 3"]
 author = "Morten G. Johansen"
 sharingicons = true
